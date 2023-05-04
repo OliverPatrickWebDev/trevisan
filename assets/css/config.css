@@ -1,0 +1,13 @@
+/* Colors */
+
+:root {
+    --primary: #E2AA44;
+    --secondary: #052B59;
+    --light: #ffffff;
+    --medium: #f2f2f2;
+    --dark: #333333;
+    --text-primary: #E2AA44;
+    --text-secondary: #052B59;
+    --text-alternative: #fff;
+    --text-default: #000;
+}

@@ -1,0 +1,71 @@
+* {
+    font-family: 'Lato', sans-serif;
+    color: var(--text-default);
+}
+
+a {
+    text-decoration: none;
+}
+
+p , label {
+    font-family: 'Teko', sans-serif;
+    font-size: 1.5em;
+}
+
+h1 {
+    font-size: 6em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 0.5px 0.5px 15px #00000088;
+}
+
+h2 {
+    font-size: 5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 0.5px 0.5px 15px #00000088;
+}
+
+h3 {
+    font-size: 4em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 0.5px 0.5px 15px #00000088;
+}
+
+h4 {
+    font-size: 3em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 0.5px 0.5px 15px #00000088;
+}
+
+h5 {
+    font-size: 2em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 0.5px 0.5px 15px #00000088;
+}
+
+h6 {
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 0.5px 0.5px 15px #00000088;
+}
+
+.title-color-primary {
+    color: var(--text-primary);
+}
+
+.title-color-secondary {
+    color: var(--text-secondary);
+}
+
+.title-color-default {
+    color: var(--text-default);
+}
+
+.title-color-alternative {
+    color: var(--text-alternative);
+}

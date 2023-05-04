@@ -1,0 +1,9 @@
+#about {
+    width: 100%;
+}
+
+#about button {
+    background-color: var(--secondary);
+    border: none;
+    text-transform: uppercase;
+}

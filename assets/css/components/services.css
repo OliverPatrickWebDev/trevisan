@@ -1,0 +1,13 @@
+#services {
+    width: 100%;
+    background-color: var(--secondary);
+}
+
+.card-title {
+    text-shadow: none;
+    color: var(--text-default);
+}
+
+#services p {
+    font-weight: 300;
+}
