@@ -7,3 +7,10 @@
     border: none;
     text-transform: uppercase;
 }
+
+#about hr {
+    color: var(--secondary);
+    width: 10em;
+    opacity: 1;
+    margin: 3em auto;
+}
