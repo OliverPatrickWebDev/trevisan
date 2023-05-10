@@ -1,0 +1,9 @@
+#copyright {
+    width: 100%;
+    background-color: black;
+}
+
+#copyright p {
+    color: var(--light);
+    font-size: 1.3em;
+}
