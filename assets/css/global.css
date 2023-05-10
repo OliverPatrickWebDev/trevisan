@@ -16,42 +16,36 @@ h1 {
     font-size: 6em;
     text-transform: uppercase;
     font-weight: bold;
-    text-shadow: 0.5px 0.5px 15px #00000088;
 }
 
 h2 {
     font-size: 5em;
     text-transform: uppercase;
     font-weight: bold;
-    text-shadow: 0.5px 0.5px 15px #00000088;
 }
 
 h3 {
     font-size: 4em;
     text-transform: uppercase;
     font-weight: bold;
-    text-shadow: 0.5px 0.5px 15px #00000088;
 }
 
 h4 {
     font-size: 3em;
     text-transform: uppercase;
     font-weight: bold;
-    text-shadow: 0.5px 0.5px 15px #00000088;
 }
 
 h5 {
     font-size: 2em;
     text-transform: uppercase;
     font-weight: bold;
-    text-shadow: 0.5px 0.5px 15px #00000088;
 }
 
 h6 {
     font-size: 1.5em;
     text-transform: uppercase;
     font-weight: bold;
-    text-shadow: 0.5px 0.5px 15px #00000088;
 }
 
 .title-color-primary {

@@ -2,10 +2,15 @@
     width: 100%;
 }
 
-#about button {
+#about .btn {
     background-color: var(--secondary);
     border: none;
     text-transform: uppercase;
+}
+
+#about .btn :hover {
+    transition: 0.5s;
+    opacity: 0.75;
 }
 
 #about hr {
