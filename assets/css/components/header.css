@@ -7,5 +7,17 @@ header {
 }
 
 #header nav {
-    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.823), rgba(188, 187, 187, 0.715));;
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.823), rgba(188, 187, 187, 0.715));
+    animation: slideInDown;
+    animation-duration: 1.5s;
+}
+
+#header h1 {
+    animation: fadeIn;
+    animation-duration: 2s;
+}
+
+#header h6 {
+    animation: fadeIn;
+    animation-duration: 2s;
 }

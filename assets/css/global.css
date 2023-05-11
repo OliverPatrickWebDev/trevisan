@@ -9,7 +9,7 @@ a {
 
 p , label {
     font-family: 'Teko', sans-serif;
-    font-size: 1.5em;
+    font-size: 1.25em;
 }
 
 h1 {
@@ -43,7 +43,7 @@ h5 {
 }
 
 h6 {
-    font-size: 1.5em;
+    font-size: 1.2em;
     text-transform: uppercase;
     font-weight: bold;
 }

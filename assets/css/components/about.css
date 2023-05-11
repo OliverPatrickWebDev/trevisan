@@ -8,11 +8,6 @@
     text-transform: uppercase;
 }
 
-#about .btn :hover {
-    transition: 0.5s;
-    opacity: 0.75;
-}
-
 #about hr {
     color: var(--secondary);
     width: 10em;
