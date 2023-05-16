@@ -1,0 +1,18 @@
+#depoiment {
+    width: 100%;
+}
+
+#depoiment img {
+    width: 100px;
+    height: 100px;
+}
+
+#depoiment p {
+    font-weight: 300;
+    font-size: 1.3em;
+}
+
+.star {
+    color: var(--primary);
+    font-size: 1.5em;
+}
