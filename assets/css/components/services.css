@@ -1,13 +1,18 @@
 #services {
-    width: 100%;
-    background-color: var(--secondary);
+    background-color: var(--primary);
+}
+
+.card:hover {
+    transform: scale(1.1);
+    transition: 300ms linear;
 }
 
 .card-title {
     text-shadow: none;
-    color: var(--text-default);
+    color: var(--text-primary);
 }
 
 #services p {
     font-weight: 300;
+    color: var(--text-primary);
 }

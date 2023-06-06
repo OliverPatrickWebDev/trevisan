@@ -1,13 +1,14 @@
 /* Colors */
 
 :root {
-    --primary: #E2AA44;
-    --secondary: #052B59;
+    --primary: #052B59;
+    --secondary: #4DA848;
     --light: #ffffff;
     --medium: #f2f2f2;
     --dark: #333333;
-    --text-primary: #E2AA44;
-    --text-secondary: #052B59;
-    --text-alternative: #fff;
-    --text-default: #000;
+    --text-primary: #052B59;
+    --text-secondary: #4DA848;
+    --text-alternative: #4DA848;
+    --text-default: #052B59;
+    font-size: 62.5%;
 }
