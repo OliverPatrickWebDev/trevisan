@@ -28,3 +28,8 @@
     border: none;
     text-transform: uppercase;
 }
+
+.card {
+    width: 20%;
+    height: auto;
+}
